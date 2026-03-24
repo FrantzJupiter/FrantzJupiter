@@ -1,6 +1,6 @@
 # Olá, eu sou o Luis Frantz! 👋
 
-👨‍💻 **Frontend Engineer** apaixonado por criar interfaces web modernas, performáticas e com excelente experiência do usuário (UX). Diretamente de Juiz de Fora, MG para o mundo.
+👨‍💻 **Frontend Engineer** apaixonado por criar interfaces web modernas, performáticas e com excelente experiência do usuário (UX). Diretamente de Juiz de Fora, MG.
 
 Meu foco é transformar problemas complexos em aplicações simples, intuitivas e bem estruturadas, sempre prezando por um código limpo e arquitetura escalável.
 
