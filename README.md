@@ -22,7 +22,7 @@ Meu foco é transformar problemas complexos em aplicações simples, intuitivas 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 📊 Estatísticas do GitHub
-<div align="center">
+<div>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrantzJupiter&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
