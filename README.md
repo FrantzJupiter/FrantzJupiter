@@ -9,7 +9,7 @@ Meu foco é transformar problemas complexos em soluções simples, prezando por 
 - 🔭 Atualmente desenvolvendo soluções Full-Stack, com foco no ecossistema **React**, **Next.js** e **TypeScript**.
 - ⚙️ Experiência na criação de ferramentas e automação com Python e desenvolvimento de sistemas robustos utilizando o ecossistema .NET (C#).
 - 💡 Acredito que um bom software vai muito além do visual: envolve engenharia de performance, acessibilidade e uma base de código altamente manutenível.
-- 🌐 **Idiomas:** Inglês [Inserir Nível, ex: Técnico/Intermediário/Avançado].
+- 🌐 **Idiomas:** Inglês - Avançado.
 
 ### 🏆 Projetos em Destaque
 
