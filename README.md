@@ -12,8 +12,6 @@ Meu foco é transformar problemas complexos em soluções simples, prezando por 
 
 ### 🏆 Projetos em Destaque
 
-### 🏆 Projetos em Destaque
-
 #### 🎴 [BiomaTCG](https://github.com/FrantzJupiter) | Desenvolvimento de Jogos Web
 *   **O que é:** Um Trading Card Game (TCG) para navegador com foco em interface responsiva e lógica de estado.
 *   **Tech Stack:** `Next.js`, `React`, `TypeScript`, `Tailwind CSS`.
