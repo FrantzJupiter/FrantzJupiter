@@ -16,21 +16,25 @@ Meu foco é transformar problemas complexos em soluções simples, prezando por 
 #### 🎴 [BiomaTCG](https://bioma-tcg.vercel.app/) | Desenvolvimento de Jogos Web
 * **O que é:** Um Trading Card Game (TCG) em desenvolvimento para navegador com foco em interface responsiva e lógica de estado.
 * **Tech Stack:** `Next.js`, `React`, `TypeScript`, `Tailwind CSS`.
-* **O que implementei:** * Isolamento da lógica de regras do jogo em *Custom Hooks* para manter os componentes de UI limpos.
+* **O que implementei:**
+    * Isolamento da lógica de regras do jogo em *Custom Hooks* para manter os componentes de UI limpos.
     * Cálculo dinâmico de arco e espaçamento para a mão do jogador usando `requestAnimationFrame`.
     * Sistema de *Drag & Drop* fluido focado em performance de renderização.
 
 #### 🏗️ [Funnel Flow Builder](https://github.com/FrantzJupiter/funil-twr) | Interface & Lógica de Fluxo
 * **O que é:** Construtor visual de funis desenvolvido como desafio técnico para a empresa *The White Rabbit (TWR)*.
 * **Tech Stack:** `React Flow`, `Tailwind v4`, `Shadcn/UI`.
-* **O que implementei:** * Algoritmo de **física de colisão** para organização automática dos nós no tabuleiro.
+* **O que implementei:**
+    * Algoritmo de **física de colisão** para organização automática dos nós no tabuleiro.
     * Lógica de inserção inteligente que reposiciona conexões existentes ao adicionar novos elementos entre elas.
     * Interface moderna com persistência de dados no `localStorage`.
+    * **Reconhecimento:** Avaliado com **Nota 58/60**, recebendo destaque máximo (10/10) em **UX** e **Lógica de React Flow**.
 
 #### ⚙️ [AutoDocUML](https://github.com/FrantzJupiter/AutoDocUML) | Automação com Python
 * **O que é:** Ferramenta de linha de comando para automatizar a criação de documentação técnica.
 * **Tech Stack:** `Python`.
-* **O que implementei:** * Script que analisa o código-fonte para mapear estruturas de classes e métodos.
+* **O que implementei:**
+    * Script que analisa o código-fonte para mapear estruturas de classes e métodos.
     * Geração automática de diagramas UML, facilitando a visualização da arquitetura do software sem trabalho manual.
 
 ### 🛠️ Minha Stack Principal
