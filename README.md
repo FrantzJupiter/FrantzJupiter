@@ -12,15 +12,15 @@ Meu foco é transformar problemas complexos em soluções simples, prezando por 
 
 ### 🏆 Projetos em Destaque
 
-#### 🎴 [BiomaTCG](https://github.com/FrantzJupiter) | Desenvolvimento de Jogos Web
-*   **O que é:** Um Trading Card Game (TCG) para navegador com foco em interface responsiva e lógica de estado.
+#### 🎴 [BiomaTCG](https://bioma-tcg.vercel.app/) | Desenvolvimento de Jogos Web
+*   **O que é:** Um Trading Card Game (TCG) em desenvolvimento para navegador com foco em interface responsiva e lógica de estado.
 *   **Tech Stack:** `Next.js`, `React`, `TypeScript`, `Tailwind CSS`.
 *   **O que implementei:** 
     *   Isolamento da lógica de regras do jogo em *Custom Hooks* para manter os componentes de UI limpos.
     *   Cálculo dinâmico de arco e espaçamento para a mão do jogador usando `requestAnimationFrame`.
     *   Sistema de *Drag & Drop* fluido focado em performance de renderização.
 
-#### 🏗️ [Funnel Flow Builder](https://github.com/FrantzJupiter) | Interface & Lógica de Fluxo
+#### 🏗️ [Funnel Flow Builder](https://github.com/FrantzJupiter/funil-twr) | Interface & Lógica de Fluxo
 *   **O que é:** Construtor visual de funis desenvolvido como desafio técnico para a empresa *The White Rabbit (TWR)*.
 *   **Tech Stack:** `React Flow`, `Tailwind v4`, `Shadcn/UI`.
 *   **Reconhecimento:** Avaliado com **Nota 58/60**, recebendo destaque máximo (10/10) em **UX** e **Lógica de React Flow**.
@@ -51,11 +51,6 @@ Meu foco é transformar problemas complexos em soluções simples, prezando por 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-### 📊 Estatísticas do GitHub
-<div>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrantzJupiter&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 ### 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frantzjunior/)
