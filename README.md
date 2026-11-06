@@ -1,58 +1,82 @@
-# Olá, eu sou o Frantz! 👋
+# Olá, eu sou o Frantz 👋
 
-👨‍💻 **Software Developer** apaixonado por construir aplicações completas, desde interfaces modernas e performáticas até ferramentas de automação e arquiteturas escaláveis. Diretamente de Juiz de Fora, MG.
+**Desenvolvedor com foco em frontend, React e TypeScript.**
 
-Meu foco é transformar problemas complexos em soluções simples, prezando por um código limpo, arquitetura sólida e excelente experiência do usuário (UX).
+Atuo na **The White Rabbit**, desenvolvendo interfaces para uma plataforma de marketing. Meu trabalho envolve dashboards interativos, tabelas configuráveis e componentes compartilhados, com atenção à usabilidade, responsividade e manutenção do código.
 
-### 🚀 Sobre mim
-- 🎓 Estudante de **Sistemas de Informação** na UniAcademia *(Previsão de formatura: 07/2028)*.
-- 🔭 Atualmente desenvolvendo soluções Full-Stack, com foco no ecossistema **React**, **Next.js** e **TypeScript**.
-- ⚙️ Experiência na criação de ferramentas e automação com Python e desenvolvimento de sistemas robustos utilizando o ecossistema .NET (C#).
-- 💡 Acredito que um bom software vai muito além do visual: envolve engenharia de performance, acessibilidade e uma base de código altamente manutenível.
-- 🌐 **Idiomas:** Inglês - Avançado.
+Estudo **Sistemas de Informação na UniAcademia**, em Juiz de Fora — MG, e também desenvolvo projetos com Python e C#/.NET.
 
-### 🏆 Projetos em Destaque
+[LinkedIn](https://www.linkedin.com/in/frantzjunior/) · [E-mail](mailto:luisfrantzjr@gmail.com)
 
-#### 🎴 [BiomaTCG](https://bioma-tcg.vercel.app/) | Desenvolvimento de Jogos Web
-* **O que é:** Um Trading Card Game (TCG) em desenvolvimento para navegador com foco em interface responsiva e lógica de estado.
-* **Tech Stack:** `Next.js`, `React`, `TypeScript`, `Tailwind CSS`.
-* **O que implementei:**
-    * Isolamento da lógica de regras do jogo em *Custom Hooks* para manter os componentes de UI limpos.
-    * Cálculo dinâmico de arco e espaçamento para a mão do jogador usando `requestAnimationFrame`.
-    * Sistema de *Drag & Drop* fluido focado em performance de renderização.
+---
 
-#### 🏗️ [Funnel Flow Builder](https://github.com/FrantzJupiter/funil-twr) | Interface & Lógica de Fluxo
-* **O que é:** Construtor visual de funis desenvolvido como desafio técnico para a empresa *The White Rabbit (TWR)*.
-* **Tech Stack:** `React Flow`, `Tailwind v4`, `Shadcn/UI`.
-* **O que implementei:**
-    * Algoritmo de **física de colisão** para organização automática dos nós no tabuleiro.
-    * Lógica de inserção inteligente que reposiciona conexões existentes ao adicionar novos elementos entre elas.
-    * Interface moderna com persistência de dados no `localStorage`.
-    * **Reconhecimento:** Avaliado com **Nota 58/60**, recebendo destaque máximo (10/10) em **UX** e **Lógica de React Flow**.
+## Experiência profissional
 
-#### ⚙️ [AutoDocUML](https://github.com/FrantzJupiter/AutoDocUML) | Automação com Python
-* **O que é:** Ferramenta de linha de comando para automatizar a criação de documentação técnica.
-* **Tech Stack:** `Python`.
-* **O que implementei:**
-    * Script que analisa o código-fonte para mapear estruturas de classes e métodos.
-    * Geração automática de diagramas UML, facilitando a visualização da arquitetura do software sem trabalho manual.
+### The White Rabbit · Desenvolvimento frontend
 
-### 🛠️ Minha Stack Principal
+Contribuo para a evolução do produto em colaboração com a equipe, desde a implementação de interfaces até sua revisão e integração.
 
-**Linguagens & Frameworks:**
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+- **Dashboards e visualização de dados:** gráficos interativos, navegação por períodos e personalização de layouts.
+- **Tabelas para consulta de dados:** paginação no servidor, filtros, ordenação e colunas que podem ser reordenadas, redimensionadas e fixadas.
+- **Componentes e consistência visual:** padronização de tabelas, temas e estados de carregamento alinhados ao conteúdo final.
+- **Internacionalização:** ajustes de interface, textos e formatação para português, inglês e espanhol.
+- **Qualidade e colaboração:** testes automatizados, revisão de código e trabalho com integração contínua.
 
-**Estilização & Ferramentas:**
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+O código profissional está em repositório privado. Os projetos públicos abaixo apresentam outras aplicações das tecnologias com que trabalho.
 
-### 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frantzjunior/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisfrantzjr@gmail.com)
+## Tecnologias
+
+| Área | Tecnologias |
+| --- | --- |
+| Frontend | React, TypeScript, Next.js, Vite |
+| Interfaces e dados | Tailwind CSS, Radix UI, TanStack Table, React Flow |
+| Outras linguagens | Python, C#/.NET |
+| Desenvolvimento | Git, GitHub, testes automatizados e CI |
+
+## Projetos em destaque
+
+### [Funnel Flow Builder](https://github.com/FrantzJupiter/funil-twr)
+
+Construtor visual de funis de campanhas, desenvolvido como desafio técnico para a The White Rabbit.
+
+- Inserção de etapas com reorganização de nós e conexões.
+- Edição de métricas com validação e persistência local.
+- Interface com arrastar e soltar, minimapa, zoom e temas claro/escuro.
+
+**Tecnologias:** Next.js, TypeScript, React Flow e Tailwind CSS.  
+**Avaliação recebida no desafio:** 58/60, com 10/10 em UX e lógica de React Flow.
+
+### [AutoDocPythonUML](https://github.com/FrantzJupiter/AutoDocPythonUML)
+
+Ferramenta de linha de comando que analisa código Python por AST, sem executá-lo, para gerar documentação em Markdown e diagramas de classes com Mermaid.
+
+**Destaques:** análise de classes e relacionamentos, documentação navegável e automação de uma tarefa de manutenção.
+
+### [PetMatch](https://github.com/FrantzJupiter/PetMatch)
+
+Protótipo de uma plataforma de adoção responsável para a ONG Bazar Pet, com apresentação dos animais, navegação e favoritos.
+
+**Tecnologias:** React, TypeScript e Vite.  
+**Estado:** protótipo com dados locais, sem integração com banco ou autenticação.
+
+## Projeto em equipe
+
+### Sistema de Estoque · Conexão Entre Irmãos
+
+Projeto Integrador voltado à gestão de doações e estoque de uma instituição beneficente.
+
+Minhas contribuições incluem a evolução das interfaces de recebimento e distribuição, organização do design system e dos fluxos, além da documentação para facilitar a participação dos demais integrantes.
+
+**Tecnologias do projeto:** React, TypeScript, Vite e Supabase.  
+**Estado:** v2 em desenvolvimento, com repositório de acesso restrito.
+
+## Formação e idiomas
+
+- **Sistemas de Informação — UniAcademia:** previsão de conclusão em julho de 2028.
+- **Inglês:** avançado.
+
+## Contato
+
+Para conversar sobre desenvolvimento, projetos ou oportunidades:
+
+**[LinkedIn](https://www.linkedin.com/in/frantzjunior/)** · **[luisfrantzjr@gmail.com](mailto:luisfrantzjr@gmail.com)**
